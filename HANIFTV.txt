@@ -1,0 +1,278 @@
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",ANTV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62297
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Kids Channel ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62231
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",MiaoMI ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62223
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Cartoon Network ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62279
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Disney Channel ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62267
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Disney Junior ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62266
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Nick ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62202
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Nick JR ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62201
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Boomerang 1 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62281
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Baby TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62292
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",ANIPlus ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62158
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Asian Food Channel HD ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62156
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Da Vinci Learning ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62152
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Duck TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62151
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Dreamworks ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62150
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Warner TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62142
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Lifetime ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62175
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",HBO SIGNATURE ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62174
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",HBO HITS ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62173
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",HBO FAMILY ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62172
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",HBO RED ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62171
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",HBO CINEMAX ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62170
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Zee Bioskop ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62141
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Zee Cinema ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62140
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Celestial Movies ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62276
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Cinema World ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62274
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Thrill ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62189
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Fox Crime ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62254
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Fox Family Movies ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62253
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Fox ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62255
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Fox Life ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62252
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Fox Movies Action ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62250
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Fox Movies ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62251
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",AXN ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62293
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Hits ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62239
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Hits Movies ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62238
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Zee TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62138
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Zing ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62137
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",TVN Movies ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62178
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Al Jazeera English ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62301
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Al Quran Al Karem ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62300
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Animal Planet ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62299
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Animax ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62298
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Arirang Korea ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62296
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Asian Food Channel ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62295
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",BBC Earth ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62289
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",BBC World News ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62288
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Bali TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62291
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Berita Satu ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62284
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Besmart ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62283
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Bloomberg ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62282
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",CCM ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62278
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",CCTV4 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62277
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",CNBC ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62273
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",CNN ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62272
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",MTA TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62271
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Crime Investigation ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62270
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",DIVA ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62264
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",DW ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62262
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Daai TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62269
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Discovery Channel ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62268
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Drama Channel ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62263
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Padang TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62261
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",EWTN ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62259
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Euronews ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62260
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",FMN ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62257
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",FX ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62244
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Fight Sports ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62258
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Reformed 21 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62256
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Fox News ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62249
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Fox Sports 1 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62248
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Fox Sports 2 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62247
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Fox Sports 3 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62246
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",France24 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62245
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",GTV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62243
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",HGTV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62242
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Hidayah ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62241
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",History ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62240
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",IDX ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62237
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Indosiar ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62236
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Infotainment ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62234
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",JTV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62232
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Jak TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62233
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",KIX ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62230
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Kompas TV 1 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62229
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Life ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62227
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Life Style Fashion ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62226
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",MNC Channel ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62222
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",MNC Entertainment ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62221
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",MNC News ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62220
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",MNC Shop Smart ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62219
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",MNC Shop Trendy ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62218
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",MNC Sports ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62216
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",MNCTV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62214
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",MYTV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62211
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Metro TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62224
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Music Channel ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62212
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",NET.1 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62207
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",NHK World Japan ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62204
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Nat Geo ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62210
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",News Asia Channel ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62205
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",The Indonesia Channel ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62200
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",RCTI ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62199
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",RT English ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62198
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",RTV5 Makin Cakep 1 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62197
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",tvOne ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62195
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",SCM Legend ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62194
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",SCTV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62193
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Sky News ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62192
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",RBTV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62191
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Sony One ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62190
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",TLC ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62188
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",TRT World ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62183
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",TV One ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62181
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",TV9 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62180
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",MIVO TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62176
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",TVRI ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62177
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Usee Prime ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62165
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",CNN Indonesia ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62163
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Fashion TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62162
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Fashion One HD ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62161
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",RCTV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62159
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Trans TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62186
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Trans7 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62187
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Wesal TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62185
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",V Channel ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62144
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Waku Waku Japan ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62143
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Zee News ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62139
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",beIN Sports 1 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62286
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",beIN Sports 2 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62287
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",Insan TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62285
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",MTA 3 ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/6188
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",iNews ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62235
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",RRI NET ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/78282
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",TV5Monde ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/78288
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",TV Edukasi ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/78289
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",TEGAR TV ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/78290
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",&TV HD ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62303
+#EXTINF:-1 tvg-logo="#" group-title="HANIFTV",ABC Australia ID
+http://103.194.169.110:8080/1120puric/wZ5QnpJLCK/62302
