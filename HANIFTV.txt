@@ -24,7 +24,7 @@ http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62298
 http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62296
 #EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Asian Food Channel ID
 http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62295
-#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",BBC Earth ID
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",BBC Earth
 http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62289
 #EXTINF:-1 tvg-logo="#" group-title="config.streamtv",BBC World News ID
 http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62288
