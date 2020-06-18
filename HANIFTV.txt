@@ -1,3 +1,527 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="config.streamtv",RCTI [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",&TV HD ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62303
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MNC [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",GTV [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ANTV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62297
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",INEWS [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",AXN ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62293
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Al Jazeera English ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62301
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Al Quran Al Karem ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62300
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Animal Planet ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62299
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Animax ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62298
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Arirang Korea ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62296
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Asian Food Channel ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62295
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",BBC Earth ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62289
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",BBC World News ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62288
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Baby TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62292
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Bali TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62291
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Berita Satu ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62284
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Besmart ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62283
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Bloomberg ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62282
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Boomerang 1 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62281
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",CCM ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62278
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",CCTV4 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62277
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",CNBC ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62273
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",CNN ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62272
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Cartoon Network ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62279
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Celestial Movies ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62276
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Cinema World ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62274
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MTA TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62271
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Crime Investigation ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62270
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",DIVA ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62264
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",DW ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62262
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Daai TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62269
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Discovery Channel ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62268
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Disney Channel ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62267
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Disney Junior ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62266
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Drama Channel ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62263
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Padang TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62261
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",EWTN ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62259
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Euronews ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62260
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",FMN ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62257
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",FX ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62244
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fight Sports ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62258
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Reformed 21 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62256
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fox Crime ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62254
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fox Family Movies ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62253
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fox ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62255
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fox Life ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62252
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fox Movies Action ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62250
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fox Movies ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62251
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fox News ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62249
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fox Sports 1 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62248
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fox Sports 2 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62247
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fox Sports 3 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62246
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",France24 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62245
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",GTV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62243
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",HGTV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62242
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Hidayah ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62241
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",History ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62240
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Hits ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62239
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Hits Movies ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62238
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",IDX ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62237
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Indosiar ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62236
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Infotainment ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62234
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",JTV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62232
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Jak TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62233
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",KIX ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62230
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Kids Channel ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62231
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Kompas TV 1 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62229
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Life ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62227
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Life Style Fashion ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62226
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MNC Channel ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62222
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MNC Entertainment ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62221
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MNC News ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62220
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MNC Shop Smart ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62219
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MNC Shop Trendy ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62218
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MNC Sports ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62216
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MNCTV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62214
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MYTV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62211
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Metro TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62224
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MiaoMI ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62223
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Music Channel ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62212
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",NET.1 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62207
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",NHK World Japan ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62204
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Nat Geo ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62210
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",News Asia Channel ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62205
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Nick ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62202
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Nick JR ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62201
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",The Indonesia Channel ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62200
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",RCTI ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62199
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",RT English ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62198
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",RTV5 Makin Cakep 1 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62197
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",tvOne ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62195
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SCM Legend ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62194
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SCTV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62193
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Sky News ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62192
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",RBTV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62191
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Sony One ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62190
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TLC ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62188
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TRT World ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62183
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TV One ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62181
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TV9 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62180
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TVN Movies ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62178
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MIVO TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62176
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Lifetime ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62175
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",HBO SIGNATURE ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62174
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",HBO HITS ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62173
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",HBO FAMILY ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62172
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",HBO RED ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62171
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",HBO CINEMAX ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62170
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TVRI ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62177
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Usee Prime ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62165
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",CNN Indonesia ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62163
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fashion TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62162
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fashion One HD ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62161
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",RCTV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62159
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ANIPlus ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62158
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Asian Food Channel HD ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62156
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Da Vinci Learning ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62152
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Duck TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62151
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Dreamworks ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62150
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Thrill ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62189
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Trans TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62186
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Trans7 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62187
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Wesal TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62185
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",V Channel ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62144
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Waku Waku Japan ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62143
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Warner TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62142
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Zee Bioskop ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62141
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Zee Cinema ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62140
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Zee News ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62139
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Zee TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62138
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Zing ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62137
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",beIN Sports 1 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62286
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",beIN Sports 2 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62287
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Insan TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62285
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MTA 3 ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/6188
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",iNews ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/62235
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",RRI NET ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/78282
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TV5Monde ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/78288
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TV Edukasi ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/78289
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TEGAR TV ID
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/78290
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",##########   Malaysia   ##########
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/2536
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ANI PLUS HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18637
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ANIMAL PLANET MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18636
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ANIMAX HD KD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18635
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASIAN FOOD CHANNEL MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18634
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",bEIN MAX MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18633
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO ARENA HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18632
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO CERIA MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18630
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO CRICKET HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18629
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO OASIS HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18628
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO PRIMA HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18627
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO QUAN JIA HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18626
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO RIA HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18625
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO SHUANG XING HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18624
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO SUPERSPORTS 1 FHD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18623
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO SUPERSPORTS 2 FHD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18622
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO SUPERSPORTS 3 FHD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18621
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO SUPERSPORTS 4 FHD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18620
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",CHUTTI TV MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18619
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO VAANAVIL HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18618
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO VINMEEN HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18617
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO WARNA HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18616
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",COLORS HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18615
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO XIAO TAI YANG MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18614
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",AXN HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18613
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Astro Awani MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1373
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Astro SuperSport 1 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1366
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Astro SuperSport 2 HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1365
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Astro SuperSport 3 HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1364
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Astro SuperSport 4 HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1161
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",BABY FIRST MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18612
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",BBC EARTH HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18610
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",BBC LIFESTYLE MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18609
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",BEIN SPORTS MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18608
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",BLUE ANT EXTREME MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18607
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",BOLLY ONE HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18606
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",BOOMERANG HD KD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18605
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",CARTOON NETWORK MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18604
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",CELESTIAL MOVIES MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18603
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",CINEMA WORLD HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18601
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",DISCOVERY CHANNEL MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18600
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",DISNEY CH MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18599
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",DISNEY JR MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18598
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",DISNEY XD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18597
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",DIVA HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18596
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",DUNIA SINEMA MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18595
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",ASTRO RUGBY PASS TV MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18593
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",FOX FAMILY MOVIES HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18592
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",FOX LIFE HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18591
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",FOX MOVIES HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18590
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",FOX SPORTS 1 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18589
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",FOX SPORTS 2 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18588
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",FOX SPORTS 3 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18587
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",FOX TV HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18586
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",FX CINEMA HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18585
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fox Movies Action HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1362
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Fox Movies Premium MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1361
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",GNIX SPORTS HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18584
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",HGTV MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18583
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",GO SHOP GAAYA MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18582
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",HITS HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18581
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",HYPP SENSASI MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18580
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",JAYA MAX APAC Plus MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18548
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",KIX MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18575
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MTV ASIA MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18573
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",MUTV HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18572
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",NAT GEO ASIA HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18571
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",NAT GEO PEOPLE HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18570
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",NAT GEO WILD HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18569
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",NICK JR KD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18568
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",NICK KD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18567
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",NOW TV CHINESE MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18566
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",NTV7 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1360
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",GO SHOP RUUMA MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18565
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",PARAMAUNT CHANNEL MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18563
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",PESONA HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18562
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",RED HBO HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18561
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SETANTA SPORTS HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18560
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SETi CHINESE MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18559
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SONY ONE HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18558
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SONY SAB APAC Plus MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18545
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SONY SETMAX APAC Plus MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18544
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SONY TV APAC Plus MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18543
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",STAR CHINESE CHANNEL HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18557
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",STAR VIJAY APAC Plus MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18546
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Baby TV MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/9131
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Dmax MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/9126
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Fox Action Movies HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/9142
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Fox Action Movies MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/9143
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Golf HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/9123
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet MTV China MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/9122
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Movies HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/9114
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Music MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/9121
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Sports 1 HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1160
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Sports 1 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1159
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Sports 2 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1158
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Sports 3 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1157
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Sports 4 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1156
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Sports 5 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1155
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Sports 6 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1154
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Sports HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/9113
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Sports Plus HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/9110
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Sports Plus MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/9112
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet ZEE TV MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/9135
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",SkyNet Zing MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/9117
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",Sport DREAM WORKS HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18638
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TLC MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18556
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TRAVEL CHANNEL HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18555
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TV ALHIJRA MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18554
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TV1 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1359
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TV2 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1358
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TV3 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1357
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TV8 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18553
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TV9 MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/1356
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TVN HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18552
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",TVN MOVIES MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18551
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",WARNER TV HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18550
+#EXTINF:-1 tvg-logo="#" group-title="config.streamtv",WWE NETWORK HD MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18549
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="config.streamtv",ZEE TAMIL APAC Plus MY
+http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18547
+
+###########  portal.geniptv ###########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="portal.geniptv.com",ANTV ID
 http://portal.geniptv.com:8080/sdCXaJL7UR/SmQHNykrnq/62297
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="portal.geniptv.com",Kids Channel ID
