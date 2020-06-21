@@ -520,7 +520,342 @@ http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18550
 http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18549
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="config.streamtv",ZEE TAMIL APAC Plus MY
 http://config.streamtv.to:8080/3nAh9mIopP/jk97YEdIyA/18547
-
+###########  portal.geniptv 1 KOZ ###########
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",SCTV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62193
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="KOZ",RCTI [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",RCTI ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62199
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",NET.1 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62207
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",MNC [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",MNCTV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62214
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="KOZ",ANTV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62297
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="KOZ",Kids Channel ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62231
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",MiaoMI ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62223
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Cartoon Network ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62279
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Disney Channel ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62267
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Disney Junior ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62266
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Nick ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62202
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Nick JR ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62201
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Boomerang 1 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62281
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Baby TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62292
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",ANIPlus ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62158
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Asian Food Channel HD ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62156
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Da Vinci Learning ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62152
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Duck TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62151
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Dreamworks ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62150
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Warner TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62142
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Lifetime ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62175
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",HBO SIGNATURE ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62174
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",HBO HITS ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62173
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",HBO FAMILY ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62172
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",HBO RED ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62171
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",HBO CINEMAX ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62170
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Zee Bioskop ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62141
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Zee Cinema ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62140
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Celestial Movies ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62276
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Cinema World ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62274
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Thrill ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62189
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Fox Crime ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62254
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Fox Family Movies ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62253
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Fox ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62255
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Fox Life ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62252
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Fox Movies Action ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62250
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Fox Movies ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62251
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",AXN ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62293
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Hits ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62239
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Hits Movies ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62238
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Zee TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62138
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Zing ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62137
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",TVN Movies ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62178
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Al Jazeera English ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62301
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Al Quran Al Karem ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62300
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Animal Planet ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62299
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Animax ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62298
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Arirang Korea ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62296
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Asian Food Channel ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62295
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",BBC Earth ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62289
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",BBC World News ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62288
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Bali TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62291
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Berita Satu ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62284
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Besmart ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62283
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Bloomberg ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62282
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",CCM ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62278
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",CCTV4 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62277
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",CNBC ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62273
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",CNN ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62272
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",MTA TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62271
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Crime Investigation ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62270
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",DIVA ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62264
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",DW ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62262
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Daai TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62269
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Discovery Channel ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62268
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Drama Channel ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62263
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Padang TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62261
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",EWTN ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62259
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Euronews ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62260
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",FMN ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62257
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",FX ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62244
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Fight Sports ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62258
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Reformed 21 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62256
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Fox News ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62249
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Fox Sports 1 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62248
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Fox Sports 2 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62247
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Fox Sports 3 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62246
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",France24 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62245
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",GTV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62243
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",HGTV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62242
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Hidayah ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62241
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",History ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62240
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",IDX ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62237
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Indosiar ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62236
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Infotainment ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62234
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",JTV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62232
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Jak TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62233
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",KIX ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62230
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Kompas TV 1 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62229
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Life ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62227
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Life Style Fashion ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62226
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",MNC Channel ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62222
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",MNC Entertainment ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62221
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",MNC News ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62220
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",MNC Shop Smart ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62219
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",MNC Shop Trendy ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62218
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",MNC Sports ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62216
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",MYTV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62211
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Metro TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62224
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Music Channel ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62212
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",NHK World Japan ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62204
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Nat Geo ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62210
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",News Asia Channel ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62205
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",The Indonesia Channel ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62200
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",RT English ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62198
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",RTV5 Makin Cakep 1 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62197
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",tvOne ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62195
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",SCM Legend ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62194
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Sky News ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62192
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",RBTV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62191
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Sony One ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62190
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",TLC ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62188
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",TRT World ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62183
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",TV One ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62181
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",TV9 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62180
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",MIVO TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62176
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",TVRI ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62177
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Usee Prime ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62165
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",CNN Indonesia ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62163
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Fashion TV ID
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",RCTV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62159
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Trans TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62186
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Trans7 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62187
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Wesal TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62185
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",V Channel ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62144
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Waku Waku Japan ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62143
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Zee News ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62139
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",beIN Sports 1 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62286
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",beIN Sports 2 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62287
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",Insan TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62285
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",MTA 3 ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/6188
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",iNews ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62235
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",RRI NET ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/78282
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",TV5Monde ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/78288
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",TV Edukasi ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/78289
+#EXTINF:-1 tvg-logo="#" group-title="KOZ",TEGAR TV ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/78290
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="KOZ",&TV HD ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62303
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="KOZ",ABC Australia ID
+http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62302
+#EXTINF:-1 tvg-id="" tvg-name="TV1 MY" tvg-logo="" group-title="KOZ",TV1 MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/1359.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV2 MY" tvg-logo="" group-title="KOZ",TV2 MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/1358.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV3 MY" tvg-logo="" group-title="KOZ",TV3 MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/1357.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV7 MY" tvg-logo="" group-title="KOZ",NTV7 MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/1360.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV8 MY" tvg-logo="" group-title="KOZ",TV8 MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18553.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV9 MY" tvg-logo="" group-title="KOZ",TV9 MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/1356.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA HD MY" tvg-logo="" group-title="KOZ",ASTRO ARENA HD MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18632.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA MY" tvg-logo="" group-title="KOZ",ASTRO CERIA MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18630.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD MY" tvg-logo="" group-title="KOZ",ASTRO CRICKET HD MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18629.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS HD MY" tvg-logo="" group-title="KOZ",ASTRO OASIS HD MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18628.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO PRIMA HD MY" tvg-logo="" group-title="KOZ",ASTRO PRIMA HD MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18627.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO RIA HD MY" tvg-logo="" group-title="KOZ",ASTRO RIA HD MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18625.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO WARNA HD MY" tvg-logo="" group-title="KOZ",ASTRO WARNA HD MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18616.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOLLY ONE HD MY" tvg-logo="" group-title="KOZ",BOLLY ONE HD MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18606.ts
+#EXTINF:-1 tvg-id="" tvg-name="CELESTIAL MOVIES MY" tvg-logo="" group-title="KOZ",CELESTIAL MOVIES MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18603.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUNIA SINEMA MY" tvg-logo="" group-title="KOZ",DUNIA SINEMA MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18595.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX CINEMA HD MY" tvg-logo="" group-title="KOZ",FX CINEMA HD MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18585.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Action HD MY" tvg-logo="" group-title="KOZ",Fox Movies Action HD MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/62250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Premium MY" tvg-logo="" group-title="KOZ",Fox Movies Premium MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/62251.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family MY" tvg-logo="" group-title="KOZ",Fox Family
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/62253.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hbo Hits MY" tvg-logo="" group-title="KOZ",Hbo Hits
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/62173.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hbo Signature MY" tvg-logo="" group-title="KOZ",Hbo Signature
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/62174.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hbo Family MY" tvg-logo="" group-title="KOZ",Hbo Family
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/62172.ts
+#EXTINF:-1 tvg-id="" tvg-name="HITS HD MY" tvg-logo="" group-title="KOZ",HITS HD MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18581.ts
+#EXTINF:-1 tvg-id="" tvg-name="HYPP SENSASI MY" tvg-logo="" group-title="KOZ",HYPP SENSASI MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18580.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD MY" tvg-logo="" group-title="KOZ",WARNER TV HD MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18550.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK HD MY" tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="KOZ",WWE NETWORK HD MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18549.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TAMIL APAC Plus MY" tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="KOZ",ZEE TAMIL APAC Plus MY
+http://portal.geniptv.com:8080/live/VdsWDySn6A/96JDX8nsCr/18547.ts
 ###########  portal.geniptv ###########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="portal.geniptv.com",ANTV ID
 http://portal.geniptv.com:8080/sdCXaJL7UR/SmQHNykrnq/62297
@@ -797,59 +1132,59 @@ http://portal.geniptv.com:8080/sdCXaJL7UR/SmQHNykrnq/78290
 http://portal.geniptv.com:8080/sdCXaJL7UR/SmQHNykrnq/62303
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="portal.geniptv.com",ABC Australia ID
 http://portal.geniptv.com:8080/sdCXaJL7UR/SmQHNykrnq/62302
-#EXTINF:-1 tvg-id="" tvg-name="TV1 MY" tvg-logo="" group-title="Malaysia",TV1 MY
+#EXTINF:-1 tvg-id="" tvg-name="TV1 MY" tvg-logo="" group-title="portal.geniptv.com",TV1 MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/1359.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV2 MY" tvg-logo="" group-title="Malaysia",TV2 MY
+#EXTINF:-1 tvg-id="" tvg-name="TV2 MY" tvg-logo="" group-title="portal.geniptv.com",TV2 MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/1358.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV3 MY" tvg-logo="" group-title="Malaysia",TV3 MY
+#EXTINF:-1 tvg-id="" tvg-name="TV3 MY" tvg-logo="" group-title="portal.geniptv.com",TV3 MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/1357.ts
-#EXTINF:-1 tvg-id="" tvg-name="NTV7 MY" tvg-logo="" group-title="Malaysia",NTV7 MY
+#EXTINF:-1 tvg-id="" tvg-name="NTV7 MY" tvg-logo="" group-title="portal.geniptv.com",NTV7 MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/1360.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV8 MY" tvg-logo="" group-title="Malaysia",TV8 MY
+#EXTINF:-1 tvg-id="" tvg-name="TV8 MY" tvg-logo="" group-title="portal.geniptv.com",TV8 MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18553.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV9 MY" tvg-logo="" group-title="Malaysia",TV9 MY
+#EXTINF:-1 tvg-id="" tvg-name="TV9 MY" tvg-logo="" group-title="portal.geniptv.com",TV9 MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/1356.ts
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA HD MY" tvg-logo="" group-title="Malaysia",ASTRO ARENA HD MY
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA HD MY" tvg-logo="" group-title="portal.geniptv.com",ASTRO ARENA HD MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18632.ts
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA MY" tvg-logo="" group-title="Malaysia",ASTRO CERIA MY
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA MY" tvg-logo="" group-title="portal.geniptv.com",ASTRO CERIA MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18630.ts
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD MY" tvg-logo="" group-title="Malaysia",ASTRO CRICKET HD MY
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD MY" tvg-logo="" group-title="portal.geniptv.com",ASTRO CRICKET HD MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18629.ts
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS HD MY" tvg-logo="" group-title="Malaysia",ASTRO OASIS HD MY
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS HD MY" tvg-logo="" group-title="portal.geniptv.com",ASTRO OASIS HD MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18628.ts
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO PRIMA HD MY" tvg-logo="" group-title="Malaysia",ASTRO PRIMA HD MY
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO PRIMA HD MY" tvg-logo="" group-title="portal.geniptv.com",ASTRO PRIMA HD MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18627.ts
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO RIA HD MY" tvg-logo="" group-title="Malaysia",ASTRO RIA HD MY
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO RIA HD MY" tvg-logo="" group-title="portal.geniptv.com",ASTRO RIA HD MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18625.ts
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO WARNA HD MY" tvg-logo="" group-title="Malaysia",ASTRO WARNA HD MY
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO WARNA HD MY" tvg-logo="" group-title="portal.geniptv.com",ASTRO WARNA HD MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18616.ts
-#EXTINF:-1 tvg-id="" tvg-name="BOLLY ONE HD MY" tvg-logo="" group-title="Malaysia",BOLLY ONE HD MY
+#EXTINF:-1 tvg-id="" tvg-name="BOLLY ONE HD MY" tvg-logo="" group-title="portal.geniptv.com",BOLLY ONE HD MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18606.ts
-#EXTINF:-1 tvg-id="" tvg-name="CELESTIAL MOVIES MY" tvg-logo="" group-title="Malaysia",CELESTIAL MOVIES MY
+#EXTINF:-1 tvg-id="" tvg-name="CELESTIAL MOVIES MY" tvg-logo="" group-title="portal.geniptv.com",CELESTIAL MOVIES MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18603.ts
-#EXTINF:-1 tvg-id="" tvg-name="DUNIA SINEMA MY" tvg-logo="" group-title="Malaysia",DUNIA SINEMA MY
+#EXTINF:-1 tvg-id="" tvg-name="DUNIA SINEMA MY" tvg-logo="" group-title="portal.geniptv.com",DUNIA SINEMA MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18595.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX CINEMA HD MY" tvg-logo="" group-title="Malaysia",FX CINEMA HD MY
+#EXTINF:-1 tvg-id="" tvg-name="FX CINEMA HD MY" tvg-logo="" group-title="portal.geniptv.com",FX CINEMA HD MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18585.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Action HD MY" tvg-logo="" group-title="Malaysia",Fox Movies Action HD MY
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Action HD MY" tvg-logo="" group-title="portal.geniptv.com",Fox Movies Action HD MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/62250.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Premium MY" tvg-logo="" group-title="Malaysia",Fox Movies Premium MY
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Premium MY" tvg-logo="" group-title="portal.geniptv.com",Fox Movies Premium MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/62251.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Family MY" tvg-logo="" group-title="Malaysia",Fox Family
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family MY" tvg-logo="" group-title="portal.geniptv.com",Fox Family
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/62253.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Hits MY" tvg-logo="" group-title="Malaysia",Hbo Hits
+#EXTINF:-1 tvg-id="" tvg-name="Hbo Hits MY" tvg-logo="" group-title="portal.geniptv.com",Hbo Hits
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/62173.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Signature MY" tvg-logo="" group-title="Malaysia",Hbo Signature
+#EXTINF:-1 tvg-id="" tvg-name="Hbo Signature MY" tvg-logo="" group-title="portal.geniptv.com",Hbo Signature
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/62174.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Family MY" tvg-logo="" group-title="Malaysia",Hbo Family
+#EXTINF:-1 tvg-id="" tvg-name="Hbo Family MY" tvg-logo="" group-title="portal.geniptv.com",Hbo Family
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/62172.ts
-#EXTINF:-1 tvg-id="" tvg-name="HITS HD MY" tvg-logo="" group-title="Malaysia",HITS HD MY
+#EXTINF:-1 tvg-id="" tvg-name="HITS HD MY" tvg-logo="" group-title="portal.geniptv.com",HITS HD MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18581.ts
-#EXTINF:-1 tvg-id="" tvg-name="HYPP SENSASI MY" tvg-logo="" group-title="Malaysia",HYPP SENSASI MY
+#EXTINF:-1 tvg-id="" tvg-name="HYPP SENSASI MY" tvg-logo="" group-title="portal.geniptv.com",HYPP SENSASI MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18580.ts
-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD MY" tvg-logo="" group-title="Malaysia",WARNER TV HD MY
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD MY" tvg-logo="" group-title="portal.geniptv.com",WARNER TV HD MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18550.ts
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK HD MY" tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="Malaysia",WWE NETWORK HD MY
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK HD MY" tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="portal.geniptv.com",WWE NETWORK HD MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18549.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TAMIL APAC Plus MY" tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="Malaysia",ZEE TAMIL APAC Plus MY
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TAMIL APAC Plus MY" tvg-logo="https://i.imgur.com/9F1yl8Km.jpg?1" group-title="portal.geniptv.com",ZEE TAMIL APAC Plus MY
 http://portal.geniptv.com:8080/live/sdCXaJL7UR/SmQHNykrnq/18547.ts
