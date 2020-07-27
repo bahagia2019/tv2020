@@ -1,6 +1,8 @@
 ######## LOKAL #########
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="INDONESIA",SCTV
 https://mkctv.my.id/.tvje./sctvhd.m3u8
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="INDONESIA",SCTV mkctv
+http://185.149.90.92:3244/indo2019/sctv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDIwIDg6MTI6MDggUE0maGFzaF92YWx1ZT1CTVN2RTFlK3RkVC9BYW5oYVVkRUp3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 group-title="INDONESIA",SCTV 2 useetv
 https://vpsus.iptv.my.id/session/dear/useetv/admin/please/fix/your/link/also/your/costumer/service/we/cant/report/the/bug/in/your/iptv/sctv.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png" group-title="INDONESIA",RCTI
